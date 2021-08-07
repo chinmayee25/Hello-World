@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 
 
 import numpy as np
-abb = np.random.randint(1, 100,200)
+abb = np.random.randint(1, 100,300)
 
 print(abb)
 print("this is dev branch change")
